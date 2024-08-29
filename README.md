@@ -1,1 +1,1 @@
-# my-repo
+# Intelligent Garbage Classification System
